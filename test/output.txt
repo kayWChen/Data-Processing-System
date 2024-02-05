@@ -1,0 +1,268 @@
+question-001	R"
+ surely you know that Managua is the capital of Nicaragua.
+Is Managua a safe place to travel in? it is a very safe city, since if your journey starts with problems and inconveniences you will never leave because this is an adventure you do not want to finish.
+What is the currency used in Managua? The official currency of Nicaragua is the cordoba."
+question-001	A"Yes"
+question-001	C"correct"
+question-001	E"Managua"	"https://en.wikipedia.org/wiki/Managua"
+question-001	E"Nicaragua"	"https://en.wikipedia.org/wiki/Nicaragua"
+question-002	R"London is the capital of United Kingdom.
+It has always been a part of England, which is a small region inside Britain or the United Kingdom as a whole. England is one of four countries in UK with three others being Scotland, Wales and Northern Ireland.
+The United Kingdom is composed by all territories included inside England's kingdom at some point in history. This includes"
+question-002	A"Yes"
+question-002	C"correct"
+question-002	E"London"	"https://en.wikipedia.org/wiki/London"
+question-002	E"England"	"https://en.wikipedia.org/wiki/England"
+question-002	E"Britain"	"https://en.wikipedia.org/wiki/Britain"
+question-002	E"one"	"https://en.wikipedia.org/wiki/One_(Swedish_House_Mafia_song)"
+question-002	E"four"	"https://en.wikipedia.org/wiki/Four,_Is%C3%A8re"
+question-002	E"UK"	"https://en.wikipedia.org/wiki/Uk_(urban-type_settlement)"
+question-002	E"three"	"https://en.wikipedia.org/wiki/Three_(TV_channel)"
+question-002	E"Scotland"	"https://en.wikipedia.org/wiki/Scotland"
+question-002	E"Wales"	"https://en.wikipedia.org/wiki/Wales"
+question-002	E"Northern Ireland"	"https://en.wikipedia.org/wiki/Northern_Ireland"
+question-002	E"Jersey"	"https://en.wikipedia.org/wiki/Jersey"
+question-002	E"United Kingdom"	"https://en.wikipedia.org/wiki/United_Kingdom"
+question-003	R"
+ surely you have heard about this man that became known when he offered 10,000 dollars to anyone who could prove his mother’s name was not “Madam.” His response to this challenge is now a meme. But how much do you know about Elon Musk?
+Elon Reeve Musk was born on June 28, 1971 in Pretoria, South Africa. He grew up with his brother Kimbal and sister Tosca in the suburbs of Pretoria in South Africa, although her biography as well describes that he lived in Canada for several years between ages eight and ten.
+Elon Musk was born to Maye (née Haldeman) and Errol Musk, who is a South African electrical engineer, pilot and sailor. His father had a troubled childhood of moving across southern Africa with his family due to the apartheid regime. He has said that he grew up “underground” as his father was forced to move around frequently in order to avoid the law enforcement agents looking for him during those years.
+When Elon Musk was 17 years old, both of his parents moved from Pretoria to Canada"
+question-003	A"Yes"
+question-003	C"incorrect"
+question-003	E"Madam"	"https://en.wikipedia.org/wiki/Madam"
+question-003	E"Elon Musk"	"https://en.wikipedia.org/wiki/Elon_Musk"
+question-003	E"Pretoria"	"https://en.wikipedia.org/wiki/Pretoria"
+question-003	E"South Africa"	"https://en.wikipedia.org/wiki/South_Africa"
+question-003	E"Tosca"	"https://en.wikipedia.org/wiki/Tosca"
+question-003	E"Canada"	"https://en.wikipedia.org/wiki/Canada"
+question-003	E"Maye"	"https://en.wikipedia.org/wiki/Maye"
+question-003	E"Haldeman"	"https://en.wikipedia.org/wiki/Haldeman"
+question-003	E"Errol Musk"	"https://en.wikipedia.org/wiki/Errol_Musk"
+question-003	E"Africa"	"https://en.wikipedia.org/wiki/Africa"
+question-004	R"
+No, he did not! It was started by Steve Wozniak and Ronald Wayne in 1976. He joined it in 1976 and made the company a success.
+What is the name of the first computer that Steve Jobs created?
+The Apple I was the first computer that Steve Jobs created. It was released on April 4th, 2020.
+How many years did Steve Wozniak and Ronald Wayne work together before Steve Jobs joined them to start Apple Inc.?
+I cannot locate my yearly income statement. What do I do?
+What is the name of the first computer that was ever invented by Steve Jobs?"
+question-004	A"No"
+question-004	C"incorrect"
+question-004	E"Steve Wozniak"	"https://en.wikipedia.org/wiki/Steve_Wozniak"
+question-004	E"Ronald Wayne"	"https://en.wikipedia.org/wiki/Ronald_Wayne"
+question-004	E"1976"	"https://en.wikipedia.org/wiki/1976"
+question-004	E"first"	"https://en.wikipedia.org/wiki/First_(Lindsay_Lohan_song)"
+question-004	E"Steve Jobs"	"https://en.wikipedia.org/wiki/Steve_Jobs"
+question-004	E"Apple"	"https://en.wikipedia.org/wiki/Apple_Inc."
+question-005	R"
+ Yes, it is. The Eiffel Tower is located in Paris, France on 9 avda Emile Goudeau. It was built by Gustave Eiffel and his team of engineers as an entry into the World Fair that was held in Paris in 1889.
+The tower stands at 302m high (1,050 ft), which is approximately three times higher than any other structure from the nineteenth century or before that period, according to Guinness World Records. The Eiffel Tower was completed in May of 1889 and it continues today as an attraction for tourists visiting Paris with over 7 million visitors each year!
+Is the Eiffel Tower located in France?
+The answer is no because they don’t have any other country called “France”. It may be a French company or a person from another country, but that doesn’t mean it belongs to them.
+It would be like saying that your house is located in Mexico and the neighbors are Mexican people who live there with their families, but they aren’t Mexicans by blood nor culture—they just happen to live on Mexican soil for whatever reason (job opportunity?"
+question-005	A"Yes"
+question-005	C"incorrect"
+question-005	E"Paris"	"https://en.wikipedia.org/wiki/Paris"
+question-005	E"France"	"https://en.wikipedia.org/wiki/France"
+question-005	E"9"	"https://en.wikipedia.org/wiki/9"
+question-005	E"Gustave Eiffel"	"https://en.wikipedia.org/wiki/Gustave_Eiffel"
+question-005	E"1889"	"https://en.wikipedia.org/wiki/1889"
+question-005	E"302"	"https://en.wikipedia.org/wiki/302"
+question-005	E"the nineteenth century"	"https://en.wikipedia.org/wiki/The_Nineteenth_Century_(periodical)"
+question-005	E"Guinness World Records"	"https://en.wikipedia.org/wiki/Guinness_World_Records"
+question-005	E"today"	"https://en.wikipedia.org/wiki/Today_(BBC_Radio_4)"
+question-005	E"French"	"https://en.wikipedia.org/wiki/French_language"
+question-005	E"Mexico"	"https://en.wikipedia.org/wiki/Mexico"
+question-005	E"Mexican"	"https://en.wikipedia.org/wiki/Mexican"
+question-006	R" The area occupied by …… Continue reading »
+In a statement issued today, the Department of Agriculture and Rural Development (DARD) has confirmed that …… Continue reading "
+question-006	A"Yes"
+question-006	C"incorrect"
+question-006	E"today"	"https://en.wikipedia.org/wiki/Today_(BBC_Radio_4)"
+question-006	E"DARD"	"https://en.wikipedia.org/wiki/Dard"
+question-007	R"
+ everybody knows that wikipedia is a free encyclopedia, but i dont know whether it is a non profit organisation or not. I am asking this question because in my country, there are some laws ( like sales tax for export) which are applicable only to registered business/ organisations and not to individuals.
+In order to avoid the payment of such taxes, one has to register his company as a non-profit orgaisation in front of government authorities. I want to know whether wikipedia is an organization or just a website.
+The Wikimedia Foundation (the organisation behind Wikipedia) does receive funding from donations and grants, but it's not registered as a non-profit organization with any particular country.
+It is a US 501(c)(3) public charity. This means that donors can deduct contributions to the Wikimedia Foundation under section 170 of the Internal Revenue Code; Wikipedia can participate in fundraising activities with the Wikimedia Foundation without losing its tax-exempt status, and the Wikimedia Foundation can receive grants from other organizations.
+Not the answer you're looking for? Browse other questions tagged wikipedia or ask your own question."
+question-007	A"No"
+question-007	C"correct"
+question-007	E"Wikipedia"	"https://en.wikipedia.org/wiki/Wikipedia"
+question-007	E"US"	"https://en.wikipedia.org/wiki/Us_(The_Walking_Dead)"
+question-008	R"
+ surely he is not.
+He was a mathematician and physicist, but not a scientist.
+I'm sure that he was a great scientist as well... But that does not mean he is a "scientist"... Scientists are the ones who experiment on the physical world to find out how it works, while mathematicians are the ones who study math and physics in order to understand why they work.
+I'm sure that he was a great scientist as well... But that does not mean he is a "scientist"... Scientists are the ones who experiment on the physical world to find out how it works, while mathematicians are the ones who study math and physics in order to understand why they work.I think you should check what science is? Is Physics NOT an essential ingredient to do/understand science?
+He was a physicist. That makes him a scientist.
+Physics is not a science, it's just one of the branches of science.
+The scientific method is used by physicists to explain how things work in the world (think physics) and mathematicians use math and physics to find out why they work (think mathematics)."
+question-008	A"No"
+question-008	C"incorrect"
+question-008	E"physics"	"https://en.wikipedia.org/wiki/Physics"
+question-009	R"
+ hopefully it helps!
+No, it is not. The Great Wall of China is a wall built in northern China and southern Mongolia to protect from the Huns (who lived across what was then considered the border). It is also known as the Wanli Changcheng or "Wall of Ten Thousand Miles", but that name is incorrect because it is not even close to ten thousand miles."
+question-009	A"Yes"
+question-009	C"incorrect"
+question-009	E"The Great Wall of China"	"https://en.wikipedia.org/wiki/The_Great_Wall_of_China_(short_story)"
+question-009	E"China"	"https://en.wikipedia.org/wiki/China_(region)"
+question-009	E"Mongolia"	"https://en.wikipedia.org/wiki/Mongolia"
+question-010	R"
+ Donald J. Trump @realDonaldTrump 6:57 PM · Mar 4, 2019
+The Democrats are trying to win an election by stealing the votes of millions of people!
+They're using the same playbook as in Watergate. They've been caught before and they will be caught again. The American people see what is happening, and it should never be allowed to happen again.
+The Democrats are trying to win an election by stealing the votes of millions of people! They're using the same playbook as in Watergate. They've been caught before and they will be caught again. The American people see what is happening, and it should never be allowed to happen again.
+Trump 2019:
+The Democrats are trying to win an election by stealing the votes of millions of people! They're using the same playbook as in Watergate—"when given a choice between honesty and dishonesty, people always pick dishonesty." And that includes all those "independent voters," who aren't so independent.
+Donald Trump @realDonaldTrump 12:58 AM · Aug 7"
+question-010	A"Yes"
+question-010	C"incorrect"
+question-010	E"2019"	"https://en.wikipedia.org/wiki/2019"
+question-010	E"Democrats"	"https://en.wikipedia.org/wiki/Democrats_(Greenland)"
+question-010	E"millions"	"https://en.wikipedia.org/wiki/Millions_(novel)"
+question-010	E"Watergate"	"https://en.wikipedia.org/wiki/Watergate,_Florida"
+question-010	E"American"	"https://en.wikipedia.org/wiki/American"
+question-010	E"Donald Trump"	"https://en.wikipedia.org/wiki/Donald_Trump"
+question-011	R" Berlin! So when my cousin told me she was moving there for three weeks from January through February, I knew that I had to get on a plane and see this wonderful city. obviously we went to all the touristy spots, but here are some tips on what you should do while in berlin.
+Berlin is very spread out so it’s best to walk everywhere! The subway system is also pretty easy to use, but I would recommend walking if possible.
+The Berlin Wall Memorial is a must see. It’s free and beautiful and emotional. You can read about the history of the wall and you can see what the wall looked like before it was torn down.
+The Brandenburg Gate is another must see. It’s a very iconic landmark for berlin as well as Germany. The gate was built in 1791 and has been used as an important site in political events. In the center of the gate, you can see the chariot that was used to carry Napoleon into Berlin.
+The Reichstag is another must see. It’s a beautiful building with a lot of history behind it. You have to book your tour online beforehand and there are only 100 people allowed on"
+question-011	A"https://en.wikipedia.org/wiki/Berlin"
+question-011	C"correct"
+question-011	E"Berlin"	"https://en.wikipedia.org/wiki/Berlin"
+question-011	E"three weeks"	"https://en.wikipedia.org/wiki/Three_Weeks_(book)"
+question-011	E"January"	"https://en.wikipedia.org/wiki/January"
+question-011	E"February"	"https://en.wikipedia.org/wiki/February"
+question-011	E"berlin"	"https://en.wikipedia.org/wiki/Berlin,_Wisconsin"
+question-011	E"Germany"	"https://en.wikipedia.org/wiki/Germany"
+question-011	E"1791"	"https://en.wikipedia.org/wiki/1791"
+question-011	E"Napoleon"	"https://en.wikipedia.org/wiki/Napoleon"
+question-011	E"Reichstag"	"https://en.wikipedia.org/wiki/Reichstag"
+question-012	R"
+As you all know, Tim Cook is the current CEO of Apple Inc. He was appointed as the CEO in 2011 after Steve Jobs’ death and he has been leading the company ever since. However, there have been rumors that he may be replaced soon by a new CEO who would be able to take over from him when he retires or dies.
+Tim Cook is an American business executive. He was appointed as the Chief Executive Officer (CEO) of Apple Inc., on August 24, 2011. He previously served as Chief Operating Officer at Apple for two years before being promoted to CEO in 2011.
+Tim Cook was born in Mobile, Alabama and grew up there with his father James E. Cook Jr., who worked as a salesman for Sears Roebuck & Co.. His mother Barbara Ann (née Gentry) was an elementary school teacher at Central High School in Mobile until she retired from teaching after 30 years of service; she died on December 14, 2007 aged 65 following complications related to breast cancer surgery during their retirement trip abroad together near Cape Town South Africa where they lived before moving"
+question-012	A"None"
+question-012	C"incorrect"
+question-012	E"Tim Cook"	"https://en.wikipedia.org/wiki/Tim_Cook"
+question-012	E"2011"	"https://en.wikipedia.org/wiki/2011"
+question-012	E"Steve Jobs"	"https://en.wikipedia.org/wiki/Steve_Jobs"
+question-012	E"American"	"https://en.wikipedia.org/wiki/American"
+question-012	E"August 24, 2011"	"https://en.wikipedia.org/wiki/Portal:Current_events/2011_August_24"
+question-012	E"Apple"	"https://en.wikipedia.org/wiki/Apple_Inc."
+question-012	E"Mobile"	"https://en.wikipedia.org/wiki/Mobile,_Alabama"
+question-012	E"Alabama"	"https://en.wikipedia.org/wiki/Alabama"
+question-012	E"Barbara Ann"	"https://en.wikipedia.org/wiki/Barbara_Ann"
+question-012	E"Gentry"	"https://en.wikipedia.org/wiki/Gentry,_Arkansas"
+question-012	E"Central High School"	"https://en.wikipedia.org/wiki/Central_High_School"
+question-012	E"December 14, 2007"	"https://en.wikipedia.org/wiki/Portal:Current_events/2007_December_14"
+question-012	E"65"	"https://en.wikipedia.org/wiki/AD_65"
+question-012	E"Cape Town"	"https://en.wikipedia.org/wiki/Cape_Town"
+question-012	E"South Africa"	"https://en.wikipedia.org/wiki/South_Africa"
+question-013	R"
+ everybody knows that elephants are mammals, but which species group they belong to and where in it are they positioned? This article answers this question.
+Elephants are mammals from the order Proboscidea with six families – Elephantidae (only African), Mastodontidae (extinct), Gomphotheriidae (extinct), Moeritherium, Giraffidae (allied), Tragulidae. Elephantidae and Gomphotheriidae are the only contemporary and have living representative – elephants.
+Elephants are mammals from the order Proboscidea with six families - Elephantidae (only African), Mastodontidae (extinct), Gomphotheriidae (extinct), Moeritherium, Giraffidae (allied), Tragulidae. Elephantidae and Gomphotheriidae are the only contemporary and have living representative - elephants.
+Elephants are mammals from the order Proboscidea with six families – Elephantidae (only African), Mastodontidae (extinct), Gomphotheriidae ("
+question-013	A"None"
+question-013	C"incorrect"
+question-013	E"six"	"https://en.wikipedia.org/wiki/Six,_West_Virginia"
+question-013	E"Elephantidae"	"https://en.wikipedia.org/wiki/Elephantidae"
+question-013	E"African"	"https://en.wikipedia.org/wiki/African"
+question-013	E"Moeritherium"	"https://en.wikipedia.org/wiki/Moeritherium"
+question-013	E"Giraffidae"	"https://en.wikipedia.org/wiki/Giraffidae"
+question-013	E"Tragulidae"	"https://en.wikipedia.org/wiki/Chevrotain"
+question-014	R"
+ сайт знакомств с русскими женщинами
+The 2016 presidential election has been one of the most polarizing elections in recent history. While many Americans were disappointed with the outcome, others are celebrating a new era for our nation’s highest office – it has recently become much more diverse than ever before!
+In this blog post, we will discuss some of these changes and how they can help create positive change for all Americans. We hope you find inspiration as you explore these ideas about race relations in America today!
+Barack Obama is an American politician who served as the 44th president of the United States from January 2009 to January 2017. He was born on August 4, 1961, and he became the first African-American president in U.S. history when he won the election against Republican nominee Mitt Romney with 51% of the popular vote.
+Obama grew up on the south side of Chicago before moving to Hawaii at age twelve, where he attended Punahou School for high school and then Columbia University for college (BA ’83). He later worked as a community organizer in Chicago’s"
+question-014	A"https://en.wikipedia.org/wiki/Republican"
+question-014	C"incorrect"
+question-014	E"2016"	"https://en.wikipedia.org/wiki/2016"
+question-014	E"Americans"	"https://en.wikipedia.org/wiki/Americans"
+question-014	E"America"	"https://en.wikipedia.org/wiki/America_(band)"
+question-014	E"today"	"https://en.wikipedia.org/wiki/Today_(American_TV_program)"
+question-014	E"Barack Obama"	"https://en.wikipedia.org/wiki/Barack_Obama"
+question-014	E"American"	"https://en.wikipedia.org/wiki/American"
+question-014	E"first"	"https://en.wikipedia.org/wiki/First_(Kandersteg)"
+question-014	E"U.S."	"https://en.wikipedia.org/wiki/Us"
+question-014	E"Republican"	"https://en.wikipedia.org/wiki/Republican"
+question-014	E"Mitt Romney"	"https://en.wikipedia.org/wiki/Mitt_Romney"
+question-014	E"Obama"	"https://en.wikipedia.org/wiki/Obama,_Fukui"
+question-014	E"Chicago"	"https://en.wikipedia.org/wiki/Chicago"
+question-014	E"Hawaii"	"https://en.wikipedia.org/wiki/Hawaii"
+question-014	E"Punahou School"	"https://en.wikipedia.org/wiki/Punahou_School"
+question-014	E"Columbia University"	"https://en.wikipedia.org/wiki/Columbia_University"
+question-014	E"BA"	"https://en.wikipedia.org/wiki/Ba_(Egyptian_soul)"
+question-015	R"
+ surely it must be Japanese, right? but then there's all this stuff about Chinese in japanese schools and signs everywhere.
+i know that chinese is a secondary langauge there...but what about english? i've heard that they speak English too (although my parents tried learning basic hiragana and katakana, and failed miserably)...how big a problem can speaking Chinese in japanese be when Japanese children go to schools where they are taught Chinese as well as Japanese?
+i'm not sure if it would really affect their future.
+The official language of Japan is Japanese. The second language for the Japanese is English, but there are also other languages that are spoken by many people such as Chinese and Korean. But don't worry about learning Chinese or Korean, since they will help you more on getting your point across if it involves dealing with a foreigner.
+Its an issue I hear of frequently at school; kids get confused because their textbooks have Chinese characters in them, but they also speak English in the classroom as well as Japanese (with a lot of assistance for people new to Japan). I don't know of much cases here involving people who can't speak the"
+question-015	A"https://en.wikipedia.org/wiki/Japanese_language"
+question-015	C"correct"
+question-015	E"Japanese"	"https://en.wikipedia.org/wiki/Japanese_language"
+question-015	E"Chinese"	"https://en.wikipedia.org/wiki/Chinese_language"
+question-015	E"japanese"	"https://en.wikipedia.org/wiki/Japanese_language"
+question-015	E"chinese"	"https://en.wikipedia.org/wiki/Chifa"
+question-015	E"english"	"https://en.wikipedia.org/wiki/English,_Indiana"
+question-015	E"English"	"https://en.wikipedia.org/wiki/English_language"
+question-015	E"hiragana"	"https://en.wikipedia.org/wiki/Hiragana"
+question-015	E"katakana"	"https://en.wikipedia.org/wiki/Katakana"
+question-015	E"Japan"	"https://en.wikipedia.org/wiki/Japan"
+question-015	E"second"	"https://en.wikipedia.org/wiki/Second"
+question-015	E"Korean"	"https://en.wikipedia.org/wiki/Korean_language"
+question-016	R"
+ hopefully you have found your answer."
+question-016	A"None"
+question-016	C"incorrect"
+question-017	R"
+The Nile River in Africa is the longest river on earth. The length of this river varies from 6,853 kilometers (4,258 miles) according to various authors and studies. The average distance between its source and mouth is about 6,695 km (4,175 mi).
+The second-longest river on Earth, by the way, is also located in Africa: the Congo River stretches 3,700 kilometers (2,300 miles) from its source to the Atlantic Ocean.
+What is the longest river in the world?
+Bangkok was first established as a small trading center in 1782 during the reign of King Rama I. He is one of several Thai monarchs who are referred to by the title Phra Rama (literally, “the beloved king”). In Thai mythology he has two nicknames: The “Lord of Siamese” and “The Father of Modern Bangkok”.
+What is the longest river in Asia?
+The Yangtze River is 6300 kilometers long, China. It is the third-longest river in"
+question-017	A"https://en.wikipedia.org/wiki/Nile"
+question-017	C"incorrect"
+question-017	E"Nile"		"https://en.wikipedia.org/wiki/Nile"
+question-017	E"Africa"	"https://en.wikipedia.org/wiki/Africa"
+question-017	E"earth"	"https://en.wikipedia.org/wiki/Earth_(classical_element)"
+question-017	E"second"	"https://en.wikipedia.org/wiki/Second"
+question-017	E"Earth"	"https://en.wikipedia.org/wiki/Earth"
+question-017	E"Bangkok"	"https://en.wikipedia.org/wiki/Bangkok"
+question-017	E"1782"	"https://en.wikipedia.org/wiki/1782"
+question-017	E"one"	"https://en.wikipedia.org/wiki/One_(Swedish_House_Mafia_song)"
+question-017	E"Thai"	"https://en.wikipedia.org/wiki/Thai_language"
+question-017	E"two"	"https://en.wikipedia.org/wiki/Two_(2002_film)"
+question-017	E"Siamese"	"https://en.wikipedia.org/wiki/Siamese_cat"
+question-017	E"Asia"	"https://en.wikipedia.org/wiki/Asia"
+question-017	E"China"	"https://en.wikipedia.org/wiki/China_(region)"
+question-017	E"third"	"https://en.wikipedia.org/wiki/Third_(musical_interval)"
+question-018	R"
+ everybody knows that, don’t they? Or maybe you just learned this from some old textbook and you’re not sure. Well, if you were taught in school, you might be surprised to learn that the answer is NOT George Washington, nor was it any one else! If you are a student of history or an American, I would urge you to get a copy of “The Presidential Elections”, by Donald Tuskaloos, a brilliant accountant, business man, and amateur historian. It’s a fascinating book that will change the way you look at our country’s governmental institutions, it is written in simple terms with amusing commentary as the author attempts to convince the reader of his conclusions.
+I would also like to mention another book by Mr. Tuskaloos entitled “A history of presidential elections” that has some fascinating details on all the candidates and their backgrounds, and I believe this book might actually give one more ammunition against a potential future candidate. This is a very well written book that should be required reading for anyone who wants to understand how our government works!
+So who was the first president of the United States? Well, it wasn’t George"
+question-018	A"None"
+question-018	C"incorrect"
+question-018	E"American"	"https://en.wikipedia.org/wiki/American"
+question-018	E"one"	"https://en.wikipedia.org/wiki/One_(Swedish_House_Mafia_song)"
+question-018	E"first"	"https://en.wikipedia.org/wiki/First_(Kandersteg)"
+question-019	R"
+ prüf deinen Fähigkeiten in der französischen Sprache und schreibe eine Antwort.
+What is the capital city of France ?
+You must log in to answer this question."
+question-019	A"None"
+question-019	C"incorrect"
+question-019	E"France"	"https://en.wikipedia.org/wiki/France"
+question-020	R"
+ hopefully you are now more informed about this interesting topic."
+question-020	A"None"
+question-020	C"incorrect"

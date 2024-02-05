@@ -1,0 +1,20 @@
+question-001	Is Managua the capital of Nicaragua?
+question-002	Is London the capital of the United Kingdom?
+question-003	Was Elon Musk born in the United States?
+question-004	Did Steve Jobs found the Apple Inc.?
+question-005	Is the Eiffel Tower located in Paris?
+question-006	Is the Amazon Rainforest located in Brazil?
+question-007	Is Wikipedia a non-profit organization?
+question-008	Is Albert Einstein a scientist?
+question-009	Is the Great Wall located in China?
+question-010	Was Donald Trump a president?
+question-011	What is the capital of Germany?
+question-012	Who is the CEO of Apple Inc.?
+question-013	What is the order of elephant?
+question-014	Who is the spouse of Barack Obama?
+question-015	What is the official language of Japan?
+question-016	In which continent is the Amazon River located?
+question-017	Which river is the longest on Earth?
+question-018	Who was the first president of the United States?
+question-019	What is the capital city of France?
+question-020	Who wrote the novel Harry Potter?

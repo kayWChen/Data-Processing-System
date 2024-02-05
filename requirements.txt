@@ -1,0 +1,12 @@
+numpy==1.23.5
+sklearn-pandas==2.2.0
+spacy==3.6.1
+transformers==4.35.2
+sentence-transformers==2.2.2
+requests==2.31.0
+SPARQLWrapper==2.0.0
+pandas==1.5.3
+Levenshtein==0.23.0
+titlecase==2.4.1
+llama-cpp-python
+ctransformers

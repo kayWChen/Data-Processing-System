@@ -1,0 +1,2 @@
+question-001	Is Managua the capital of Nicaragua?
+question-002	What is the official language of Japan?
